@@ -9,3 +9,5 @@
 
 ## Seguindo as instruções:
 - vamos também definir o ataque conforme o tipo do herói usando um condicional para exibir a mensagem correta.
+
+## Em anexo o ficheiro *Desafio do guerreiro* escrito em código JavaScript 
